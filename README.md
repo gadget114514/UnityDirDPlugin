@@ -1,6 +1,26 @@
-DirD Unity Editor Plugin
+# UnityDirDPlugin 
 
 DirD is simple folder browsing tool supporting drag and drop to other editor window.
+
+# DirD Unity Editor Plugin
+
+This Unity editor plugin browses folders.
+
+# Install
+Download dird.unitypackage from repository (as raw data)
+Import dird.unitypackage. 
+
+# Getting Started
+[Tools]-[DirD by 2nek] opens Editor window.
+You can drag the window as a docking window.
+
+# How to use
+Click to open the folder. 
+Drag and drop the file to other window.
+
+
+
+# Usecase
 
 For example,
 When you try to set a material to Mesh renderer, you would specify the mesh renderer 
@@ -16,9 +36,10 @@ that this tool will reduce your manual procedure a little bit.
 
 
 
+# Licence
+MIT
 
 
-
-
+# Third Party
 DirD is based on CustomProjectView https://github.com/furkancaglayan/CustomProjectView
 Customized Project View for Unity3D made with Editor Windows.
