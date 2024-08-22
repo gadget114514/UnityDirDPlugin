@@ -2,6 +2,8 @@
 
 DirD is simple folder browsing tool supporting drag and drop to other editor window.
 
+Unity Editor Plugin to browse folders without changing the specified object by inspector.
+
 # Install
 Download dird.unitypackage from repository (as raw data)
 Import dird.unitypackage. 
