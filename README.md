@@ -1,10 +1,6 @@
-# UnityDirDPlugin 
+# UnityDirDPlugin: DirD Unity Editor Plugin
 
 DirD is simple folder browsing tool supporting drag and drop to other editor window.
-
-# DirD Unity Editor Plugin
-
-This Unity editor plugin browses folders.
 
 # Install
 Download dird.unitypackage from repository (as raw data)
